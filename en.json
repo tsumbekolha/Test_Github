@@ -1,4 +1,8 @@
 {
-    "key name": "key value",
-    "key name2": "key value2"
+    "key name": {
+        "translation": "key value"
+    },
+    "key name2": {
+        "translation": "key value2_UPD"
+    }
 }
