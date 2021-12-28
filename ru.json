@@ -1,0 +1,22 @@
+{
+    "articles:5693914:title": "",
+    "articles:5693914:description": "",
+    "articles:5693914:body": "",
+    "articles:5800283:title": "Новая статья",
+    "articles:5800283:description": "описание",
+    "articles:5800283:body": "<p class=\"no-margin\"> Текст статьи <\/p>",
+    "categories:4412366661266:title": "Категория для теста 01",
+    "categories:4412366661266:body": "Описание категории для теста 01",
+    "sections:4412349990418:title": "Раздел для теста 01",
+    "sections:4412349990418:body": "Описание раздела для теста 01",
+    "articles:4412366626834:title": "Тестовая статья 01",
+    "articles:4412366626834:body": "<p> Это основная часть статьи <\/p>\n <p> <strong> Жирный <\/strong> <\/p>\n <p> <em> Курсив <\/em> <\/p>\n <p> <span class=\"wysiwyg-underline\"> Подчеркнутый <\/span> <\/p>\n <p> <\/p>",
+    "4412359217554": "Динамический контент\n",
+    "Knowledge__kav:ka03t0000009tFaAAI:Title:000001090": "New test Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:UrlName:000001090": "New-test-Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:TAPPS310__c:000001090": "<a href=\"https:\/\/app.lokalise.com\/projects\" target=\"_blank\"> Ссылка <\/a> <br> <img alt=\"image\" src=\"https:\/\/d3t000002rwxzeak-dev-ed--c.documentforce.com\/servlet\/rtaImage?eid=ka03t0000009tFa&feoid=00N3t00000BxKgC&refid=0EM3t000006AyOA\"> <\/img>",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichTextArea__c:000001090": "Просто текст",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichText__c:000001090": "<b> Полужирный текст <\/b> <br> <i> Курсив <\/i> <br> <u> Подчеркнутый <\/u> <br> <strike> Зачеркнутый <\/strike>",
+    "cancel": "Cancel",
+    "submit": "Submit"
+}

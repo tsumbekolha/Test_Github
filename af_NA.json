@@ -1,0 +1,22 @@
+{
+    "articles:5693914:title": "",
+    "articles:5693914:description": "",
+    "articles:5693914:body": "",
+    "articles:5800283:title": "Nuwe artikel",
+    "articles:5800283:description": "beskrywing",
+    "articles:5800283:body": "<p class=\"no-margin\"> Liggaam van artikel <\/p>",
+    "categories:4412366661266:title": "Kategorie vir toets 01",
+    "categories:4412366661266:body": "Beskrywing van kategorie vir toets 01",
+    "sections:4412349990418:title": "Afdeling vir toets 01",
+    "sections:4412349990418:body": "Beskrywing van afdeling vir toets 01",
+    "articles:4412366626834:title": "Toets Artikel 01",
+    "articles:4412366626834:body": "<p> Dit is die liggaam van die artikel <\/p>\n <p> <strong> Vet <\/strong> <\/p>\n <p> <em> Kursief <\/em> <\/p>\n <p> <span class=\"wysiwyg-underline\"> Onderstreep <\/span> <\/p>\n <p> <\/p>",
+    "4412359217554": "Dinamiese inhoud\n",
+    "Knowledge__kav:ka03t0000009tFaAAI:Title:000001090": "Nuwe toets Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:UrlName:000001090": "Nuwe-toets-Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:TAPPS310__c:000001090": "<a href=\"https:\/\/app.lokalise.com\/projects\" target=\"_blank\"> Skakel <\/a> <br> <img alt=\"image\" src=\"https:\/\/d3t000002rwxzeak-dev-ed--c.documentforce.com\/servlet\/rtaImage?eid=ka03t0000009tFa&feoid=00N3t00000BxKgC&refid=0EM3t000006AyOA\"> <\/img>",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichTextArea__c:000001090": "SMS net",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichText__c:000001090": "<b> Vet teks <\/b> <br> <i> Kursief <\/i> <br> <u> Onderstreep <\/u> <br> <strike> Deurhaling <\/strike>",
+    "cancel": "Kanselleer",
+    "submit": "Indien"
+}

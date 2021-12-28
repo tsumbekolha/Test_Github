@@ -1,0 +1,22 @@
+{
+    "articles:5693914:title": "",
+    "articles:5693914:description": "",
+    "articles:5693914:body": "",
+    "articles:5800283:title": "",
+    "articles:5800283:description": "",
+    "articles:5800283:body": "",
+    "categories:4412366661266:title": "Kategória na test 01",
+    "categories:4412366661266:body": "Popis kategórie pre test 01",
+    "sections:4412349990418:title": "Časť pre test 01",
+    "sections:4412349990418:body": "Popis sekcie pre test 01",
+    "articles:4412366626834:title": "Testovací článok 01",
+    "articles:4412366626834:body": "<p> Toto je telo článku <\/p>\n <p> <strong> Tučné <\/strong> <\/p>\n <p> <em> Kurzíva <\/em> <\/p>\n <p> <span class=\"wysiwyg-underline\"> Podčiarknuté <\/span> <\/p>\n <p> <\/p>",
+    "4412359217554": "Dynamický obsah\n",
+    "Knowledge__kav:ka03t0000009tFaAAI:Title:000001090": "Nový test Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:UrlName:000001090": "New-test-Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:TAPPS310__c:000001090": "<a href=\"https:\/\/app.lokalise.com\/projects\" target=\"_blank\"> Odkaz <\/a> <br> <img alt=\"image\" src=\"https:\/\/d3t000002rwxzeak-dev-ed--c.documentforce.com\/servlet\/rtaImage?eid=ka03t0000009tFa&feoid=00N3t00000BxKgC&refid=0EM3t000006AyOA\"> <\/img>",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichTextArea__c:000001090": "Len text",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichText__c:000001090": "<b> Tučný text <\/b> <br> <i> Kurzíva <\/i> <br> <u> Podčiarknuté <\/u> <br> <strike> Prečiarknuté <\/strike>",
+    "cancel": "Zrušiť",
+    "submit": "Predložiť"
+}

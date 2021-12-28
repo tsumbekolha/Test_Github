@@ -1,0 +1,22 @@
+{
+    "articles:5693914:title": "",
+    "articles:5693914:description": "",
+    "articles:5693914:body": "",
+    "articles:5800283:title": "",
+    "articles:5800283:description": "",
+    "articles:5800283:body": "",
+    "categories:4412366661266:title": "Catégorie pour le test 01",
+    "categories:4412366661266:body": "Description de la catégorie pour le test 01",
+    "sections:4412349990418:title": "Section pour le test 01",
+    "sections:4412349990418:body": "Description de la section pour le test 01",
+    "articles:4412366626834:title": "Tester l'article 01",
+    "articles:4412366626834:body": "<p> Ceci est le corps de l'article <\/p>\n <p> <strong> Gras <\/strong> <\/p>\n <p> <em> Italique <\/em> <\/p>\n <p> <span class=\"wysiwyg-underline\"> Souligné <\/span> <\/p>\n <p> <\/p>",
+    "4412359217554": "Contenu dynamique\n",
+    "Knowledge__kav:ka03t0000009tFaAAI:Title:000001090": "Nouveau test Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:UrlName:000001090": "Nouveau-test-Oha",
+    "Knowledge__kav:ka03t0000009tFaAAI:TAPPS310__c:000001090": "<a href=\"https:\/\/app.lokalise.com\/projects\" target=\"_blank\"> Lien <\/a> <br> <img alt=\"image\" src=\"https:\/\/d3t000002rwxzeak-dev-ed--c.documentforce.com\/servlet\/rtaImage?eid=ka03t0000009tFa&feoid=00N3t00000BxKgC&refid=0EM3t000006AyOA\"> <\/img>",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichTextArea__c:000001090": "Juste du texte",
+    "Knowledge__kav:ka03t0000009tFaAAI:RichText__c:000001090": "<b> Texte en gras <\/b> <br> <i> Italique <\/i> <br> <u> Souligné <\/u> <br> <strike> Barré <\/strike>",
+    "cancel": "Annuler",
+    "submit": "Soumettre"
+}
