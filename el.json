@@ -1,22 +1,3 @@
 {
-    "articles:5693914:title": "",
-    "articles:5693914:description": "",
-    "articles:5693914:body": "",
-    "articles:5800283:title": "",
-    "articles:5800283:description": "",
-    "articles:5800283:body": "",
-    "categories:4412366661266:title": "Κατηγορία για τη δοκιμή 01",
-    "categories:4412366661266:body": "Περιγραφή της κατηγορίας για τη δοκιμή 01",
-    "sections:4412349990418:title": "Ενότητα για τη δοκιμή 01",
-    "sections:4412349990418:body": "Περιγραφή της ενότητας για τη δοκιμή 01",
-    "articles:4412366626834:title": "Άρθρο 01 δοκιμής",
-    "articles:4412366626834:body": "<p> Αυτό είναι το κύριο μέρος του άρθρου <\/p>\n <p> <strong> Έντονη <\/strong> <\/p>\n <p> <em> Πλάγια γραφή <\/em> <\/p>\n <p> <span class=\"wysiwyg-underline\"> Υπογραμμισμένο <\/span> <\/p>\n <p> <\/p>",
-    "4412359217554": "Δυναμικό περιεχόμενο\n",
-    "Knowledge__kav:ka03t0000009tFaAAI:Title:000001090": "Νέα δοκιμή Oha",
-    "Knowledge__kav:ka03t0000009tFaAAI:UrlName:000001090": "Νέα δοκιμή-Oha",
-    "Knowledge__kav:ka03t0000009tFaAAI:TAPPS310__c:000001090": "<a href=\"https:\/\/app.lokalise.com\/projects\" target=\"_blank\"> Σύνδεσμος <\/a> <br> <img alt=\"image\" src=\"https:\/\/d3t000002rwxzeak-dev-ed--c.documentforce.com\/servlet\/rtaImage?eid=ka03t0000009tFa&feoid=00N3t00000BxKgC&refid=0EM3t000006AyOA\"> <\/img>",
-    "Knowledge__kav:ka03t0000009tFaAAI:RichTextArea__c:000001090": "Μόνο μήνυμα",
-    "Knowledge__kav:ka03t0000009tFaAAI:RichText__c:000001090": "<b> Έντονο κείμενο <\/b> <br> <i> Πλάγια γραφή <\/i> <br> <u> Υπογραμμισμένο <\/u> <br> <strike> Διαγραφή <\/strike>",
-    "cancel": "Ματαίωση",
-    "submit": "υποβάλλουν"
+    "welcome": "καλως ΗΡΘΑΤΕ"
 }
